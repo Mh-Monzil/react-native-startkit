@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "start-kit",
-    "slug": "start-kit",
+    "name": "movie_app",
+    "slug": "movie_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./",
-    "scheme": "startKit",
+    "scheme": "movieApp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
